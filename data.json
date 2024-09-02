@@ -1,0 +1,1247 @@
+[
+  {
+    "country": "Country",
+    "year": "Most Recent Year",
+    "value": "Most Recent Value\n(Millions)"
+  },
+  {
+    "country": "Afghanistan",
+    "year": "2022",
+    "value": "14,502.16"
+  },
+  {
+    "country": "Albania",
+    "year": "2023",
+    "value": "22,977.68"
+  },
+  {
+    "country": "Algeria",
+    "year": "2023",
+    "value": "239,899.49"
+  },
+  {
+    "country": "American Samoa",
+    "year": "2022",
+    "value": "871.00"
+  },
+  {
+    "country": "Andorra",
+    "year": "2023",
+    "value": "3,727.67"
+  },
+  {
+    "country": "Angola",
+    "year": "2023",
+    "value": "84,722.96"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "year": "2023",
+    "value": "2,033.09"
+  },
+  {
+    "country": "Argentina",
+    "year": "2023",
+    "value": "640,591.41"
+  },
+  {
+    "country": "Armenia",
+    "year": "2023",
+    "value": "24,212.13"
+  },
+  {
+    "country": "Aruba",
+    "year": "2022",
+    "value": "3,544.71"
+  },
+  {
+    "country": "Australia",
+    "year": "2023",
+    "value": "1,723,827.22"
+  },
+  {
+    "country": "Austria",
+    "year": "2023",
+    "value": "516,034.14"
+  },
+  {
+    "country": "Azerbaijan",
+    "year": "2023",
+    "value": "72,356.18"
+  },
+  {
+    "country": "Bahamas, The",
+    "year": "2023",
+    "value": "14,338.50"
+  },
+  {
+    "country": "Bahrain",
+    "year": "2023",
+    "value": "43,205.00"
+  },
+  {
+    "country": "Bangladesh",
+    "year": "2023",
+    "value": "437,415.33"
+  },
+  {
+    "country": "Barbados",
+    "year": "2023",
+    "value": "6,393.56"
+  },
+  {
+    "country": "Belarus",
+    "year": "2023",
+    "value": "71,857.38"
+  },
+  {
+    "country": "Belgium",
+    "year": "2023",
+    "value": "632,216.58"
+  },
+  {
+    "country": "Belize",
+    "year": "2023",
+    "value": "3,281.50"
+  },
+  {
+    "country": "Benin",
+    "year": "2023",
+    "value": "19,673.28"
+  },
+  {
+    "country": "Bermuda",
+    "year": "2022",
+    "value": "7,827.98"
+  },
+  {
+    "country": "Bhutan",
+    "year": "2022",
+    "value": "2,898.23"
+  },
+  {
+    "country": "Bolivia",
+    "year": "2023",
+    "value": "45,849.83"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "year": "2023",
+    "value": "27,054.89"
+  },
+  {
+    "country": "Botswana",
+    "year": "2023",
+    "value": "19,395.77"
+  },
+  {
+    "country": "Brazil",
+    "year": "2023",
+    "value": "2,173,665.66"
+  },
+  {
+    "country": "British Virgin Islands",
+    "year": "",
+    "value": ""
+  },
+  {
+    "country": "Brunei Darussalam",
+    "year": "2023",
+    "value": "15,128.29"
+  },
+  {
+    "country": "Bulgaria",
+    "year": "2023",
+    "value": "101,584.38"
+  },
+  {
+    "country": "Burkina Faso",
+    "year": "2023",
+    "value": "20,324.62"
+  },
+  {
+    "country": "Burundi",
+    "year": "2023",
+    "value": "2,642.16"
+  },
+  {
+    "country": "Cabo Verde",
+    "year": "2023",
+    "value": "2,587.25"
+  },
+  {
+    "country": "Cambodia",
+    "year": "2023",
+    "value": "31,772.76"
+  },
+  {
+    "country": "Cameroon",
+    "year": "2023",
+    "value": "47,945.51"
+  },
+  {
+    "country": "Canada",
+    "year": "2023",
+    "value": "2,140,085.57"
+  },
+  {
+    "country": "Cayman Islands",
+    "year": "2022",
+    "value": "6,600.84"
+  },
+  {
+    "country": "Central African Republic",
+    "year": "2023",
+    "value": "2,555.49"
+  },
+  {
+    "country": "Chad",
+    "year": "2023",
+    "value": "13,149.33"
+  },
+  {
+    "country": "Channel Islands",
+    "year": "2022",
+    "value": "11,228.32"
+  },
+  {
+    "country": "Chile",
+    "year": "2023",
+    "value": "335,533.33"
+  },
+  {
+    "country": "China",
+    "year": "2023",
+    "value": "17,794,781.99"
+  },
+  {
+    "country": "Colombia",
+    "year": "2023",
+    "value": "363,540.16"
+  },
+  {
+    "country": "Comoros",
+    "year": "2023",
+    "value": "1,352.38"
+  },
+  {
+    "country": "Congo, Dem. Rep.",
+    "year": "2023",
+    "value": "66,383.29"
+  },
+  {
+    "country": "Congo, Rep.",
+    "year": "2023",
+    "value": "15,321.06"
+  },
+  {
+    "country": "Costa Rica",
+    "year": "2023",
+    "value": "86,497.94"
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "year": "2023",
+    "value": "78,788.83"
+  },
+  {
+    "country": "Croatia",
+    "year": "2023",
+    "value": "82,688.84"
+  },
+  {
+    "country": "Cuba",
+    "year": "2020",
+    "value": "107,351.80"
+  },
+  {
+    "country": "Curacao",
+    "year": "2022",
+    "value": "3,073.84"
+  },
+  {
+    "country": "Cyprus",
+    "year": "2023",
+    "value": "32,229.62"
+  },
+  {
+    "country": "Czechia",
+    "year": "2023",
+    "value": "330,858.34"
+  },
+  {
+    "country": "Denmark",
+    "year": "2023",
+    "value": "404,198.76"
+  },
+  {
+    "country": "Djibouti",
+    "year": "2023",
+    "value": "4,098.53"
+  },
+  {
+    "country": "Dominica",
+    "year": "2023",
+    "value": "653.99"
+  },
+  {
+    "country": "Dominican Republic",
+    "year": "2023",
+    "value": "121,444.28"
+  },
+  {
+    "country": "Ecuador",
+    "year": "2023",
+    "value": "118,844.83"
+  },
+  {
+    "country": "Egypt, Arab Rep.",
+    "year": "2023",
+    "value": "395,926.08"
+  },
+  {
+    "country": "El Salvador",
+    "year": "2023",
+    "value": "34,015.62"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "year": "2023",
+    "value": "12,116.92"
+  },
+  {
+    "country": "Eritrea",
+    "year": "2011",
+    "value": "2,065.00"
+  },
+  {
+    "country": "Estonia",
+    "year": "2023",
+    "value": "40,744.85"
+  },
+  {
+    "country": "Eswatini",
+    "year": "2023",
+    "value": "4,597.86"
+  },
+  {
+    "country": "Ethiopia",
+    "year": "2023",
+    "value": "163,697.93"
+  },
+  {
+    "country": "Faroe Islands",
+    "year": "2022",
+    "value": "3,555.93"
+  },
+  {
+    "country": "Fiji",
+    "year": "2023",
+    "value": "5,494.80"
+  },
+  {
+    "country": "Finland",
+    "year": "2023",
+    "value": "300,187.20"
+  },
+  {
+    "country": "France",
+    "year": "2023",
+    "value": "3,030,904.09"
+  },
+  {
+    "country": "French Polynesia",
+    "year": "2022",
+    "value": "5,814.66"
+  },
+  {
+    "country": "Gabon",
+    "year": "2023",
+    "value": "20,516.13"
+  },
+  {
+    "country": "Gambia, The",
+    "year": "2023",
+    "value": "2,339.90"
+  },
+  {
+    "country": "Georgia",
+    "year": "2023",
+    "value": "30,535.53"
+  },
+  {
+    "country": "Germany",
+    "year": "2023",
+    "value": "4,456,081.02"
+  },
+  {
+    "country": "Ghana",
+    "year": "2023",
+    "value": "76,370.39"
+  },
+  {
+    "country": "Gibraltar",
+    "year": "",
+    "value": ""
+  },
+  {
+    "country": "Greece",
+    "year": "2023",
+    "value": "238,206.31"
+  },
+  {
+    "country": "Greenland",
+    "year": "2021",
+    "value": "3,235.81"
+  },
+  {
+    "country": "Grenada",
+    "year": "2023",
+    "value": "1,320.33"
+  },
+  {
+    "country": "Guam",
+    "year": "2022",
+    "value": "6,910.00"
+  },
+  {
+    "country": "Guatemala",
+    "year": "2023",
+    "value": "102,050.47"
+  },
+  {
+    "country": "Guinea",
+    "year": "2023",
+    "value": "23,612.30"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "year": "2023",
+    "value": "1,966.46"
+  },
+  {
+    "country": "Guyana",
+    "year": "2023",
+    "value": "16,786.30"
+  },
+  {
+    "country": "Haiti",
+    "year": "2023",
+    "value": "19,850.83"
+  },
+  {
+    "country": "Honduras",
+    "year": "2023",
+    "value": "34,400.51"
+  },
+  {
+    "country": "Hong Kong SAR, China",
+    "year": "2023",
+    "value": "382,054.57"
+  },
+  {
+    "country": "Hungary",
+    "year": "2023",
+    "value": "212,388.91"
+  },
+  {
+    "country": "Iceland",
+    "year": "2023",
+    "value": "31,020.03"
+  },
+  {
+    "country": "India",
+    "year": "2023",
+    "value": "3,549,918.92"
+  },
+  {
+    "country": "Indonesia",
+    "year": "2023",
+    "value": "1,371,171.15"
+  },
+  {
+    "country": "Iran, Islamic Rep.",
+    "year": "2023",
+    "value": "401,504.51"
+  },
+  {
+    "country": "Iraq",
+    "year": "2023",
+    "value": "250,842.78"
+  },
+  {
+    "country": "Ireland",
+    "year": "2023",
+    "value": "545,629.45"
+  },
+  {
+    "country": "Isle of Man",
+    "year": "2021",
+    "value": "7,931.19"
+  },
+  {
+    "country": "Israel",
+    "year": "2023",
+    "value": "509,901.50"
+  },
+  {
+    "country": "Italy",
+    "year": "2023",
+    "value": "2,254,851.21"
+  },
+  {
+    "country": "Jamaica",
+    "year": "2023",
+    "value": "19,423.36"
+  },
+  {
+    "country": "Japan",
+    "year": "2023",
+    "value": "4,212,945.16"
+  },
+  {
+    "country": "Jordan",
+    "year": "2023",
+    "value": "50,813.64"
+  },
+  {
+    "country": "Kazakhstan",
+    "year": "2023",
+    "value": "261,421.12"
+  },
+  {
+    "country": "Kenya",
+    "year": "2023",
+    "value": "107,440.58"
+  },
+  {
+    "country": "Kiribati",
+    "year": "2023",
+    "value": "279.03"
+  },
+  {
+    "country": "Korea, Dem. People's Rep.",
+    "year": "",
+    "value": ""
+  },
+  {
+    "country": "Korea, Rep.",
+    "year": "2023",
+    "value": "1,712,792.85"
+  },
+  {
+    "country": "Kosovo",
+    "year": "2023",
+    "value": "10,438.35"
+  },
+  {
+    "country": "Kuwait",
+    "year": "2023",
+    "value": "161,772.22"
+  },
+  {
+    "country": "Kyrgyz Republic",
+    "year": "2023",
+    "value": "13,987.63"
+  },
+  {
+    "country": "Lao PDR",
+    "year": "2023",
+    "value": "15,843.16"
+  },
+  {
+    "country": "Latvia",
+    "year": "2023",
+    "value": "43,627.08"
+  },
+  {
+    "country": "Lebanon",
+    "year": "2023",
+    "value": "17,937.26"
+  },
+  {
+    "country": "Lesotho",
+    "year": "2023",
+    "value": "2,046.04"
+  },
+  {
+    "country": "Liberia",
+    "year": "2023",
+    "value": "4,332.00"
+  },
+  {
+    "country": "Libya",
+    "year": "2023",
+    "value": "50,491.72"
+  },
+  {
+    "country": "Liechtenstein",
+    "year": "2022",
+    "value": "7,364.65"
+  },
+  {
+    "country": "Lithuania",
+    "year": "2023",
+    "value": "77,836.40"
+  },
+  {
+    "country": "Luxembourg",
+    "year": "2023",
+    "value": "85,755.01"
+  },
+  {
+    "country": "Macao SAR, China",
+    "year": "2023",
+    "value": "47,061.84"
+  },
+  {
+    "country": "Madagascar",
+    "year": "2023",
+    "value": "16,031.70"
+  },
+  {
+    "country": "Malawi",
+    "year": "2023",
+    "value": "14,084.34"
+  },
+  {
+    "country": "Malaysia",
+    "year": "2023",
+    "value": "399,648.83"
+  },
+  {
+    "country": "Maldives",
+    "year": "2023",
+    "value": "6,600.00"
+  },
+  {
+    "country": "Mali",
+    "year": "2023",
+    "value": "20,904.90"
+  },
+  {
+    "country": "Malta",
+    "year": "2023",
+    "value": "20,957.00"
+  },
+  {
+    "country": "Marshall Islands",
+    "year": "2023",
+    "value": "284.00"
+  },
+  {
+    "country": "Mauritania",
+    "year": "2023",
+    "value": "10,452.58"
+  },
+  {
+    "country": "Mauritius",
+    "year": "2023",
+    "value": "14,397.13"
+  },
+  {
+    "country": "Mexico",
+    "year": "2023",
+    "value": "1,788,886.82"
+  },
+  {
+    "country": "Micronesia, Fed. Sts.",
+    "year": "2023",
+    "value": "460.00"
+  },
+  {
+    "country": "Moldova",
+    "year": "2023",
+    "value": "16,539.44"
+  },
+  {
+    "country": "Monaco",
+    "year": "2022",
+    "value": "8,784.00"
+  },
+  {
+    "country": "Mongolia",
+    "year": "2023",
+    "value": "19,872.18"
+  },
+  {
+    "country": "Montenegro",
+    "year": "2023",
+    "value": "7,404.54"
+  },
+  {
+    "country": "Morocco",
+    "year": "2023",
+    "value": "141,109.37"
+  },
+  {
+    "country": "Mozambique",
+    "year": "2023",
+    "value": "20,624.60"
+  },
+  {
+    "country": "Myanmar",
+    "year": "2023",
+    "value": "64,815.03"
+  },
+  {
+    "country": "Namibia",
+    "year": "2023",
+    "value": "12,351.02"
+  },
+  {
+    "country": "Nauru",
+    "year": "2023",
+    "value": "154.13"
+  },
+  {
+    "country": "Nepal",
+    "year": "2023",
+    "value": "40,908.07"
+  },
+  {
+    "country": "Netherlands",
+    "year": "2023",
+    "value": "1,118,124.75"
+  },
+  {
+    "country": "New Caledonia",
+    "year": "2022",
+    "value": "9,623.32"
+  },
+  {
+    "country": "New Zealand",
+    "year": "2023",
+    "value": "253,465.70"
+  },
+  {
+    "country": "Nicaragua",
+    "year": "2023",
+    "value": "17,829.22"
+  },
+  {
+    "country": "Niger",
+    "year": "2023",
+    "value": "16,819.17"
+  },
+  {
+    "country": "Nigeria",
+    "year": "2023",
+    "value": "362,814.95"
+  },
+  {
+    "country": "North Macedonia",
+    "year": "2023",
+    "value": "14,761.24"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "year": "2020",
+    "value": "858.00"
+  },
+  {
+    "country": "Norway",
+    "year": "2023",
+    "value": "485,513.32"
+  },
+  {
+    "country": "Oman",
+    "year": "2023",
+    "value": "108,192.46"
+  },
+  {
+    "country": "Pakistan",
+    "year": "2023",
+    "value": "338,368.46"
+  },
+  {
+    "country": "Palau",
+    "year": "2023",
+    "value": "263.02"
+  },
+  {
+    "country": "Panama",
+    "year": "2023",
+    "value": "83,382.40"
+  },
+  {
+    "country": "Papua New Guinea",
+    "year": "2023",
+    "value": "30,932.50"
+  },
+  {
+    "country": "Paraguay",
+    "year": "2023",
+    "value": "42,956.26"
+  },
+  {
+    "country": "Peru",
+    "year": "2023",
+    "value": "267,603.25"
+  },
+  {
+    "country": "Philippines",
+    "year": "2023",
+    "value": "437,146.37"
+  },
+  {
+    "country": "Poland",
+    "year": "2023",
+    "value": "811,229.10"
+  },
+  {
+    "country": "Portugal",
+    "year": "2023",
+    "value": "287,080.01"
+  },
+  {
+    "country": "Puerto Rico",
+    "year": "2023",
+    "value": "117,902.30"
+  },
+  {
+    "country": "Qatar",
+    "year": "2022",
+    "value": "235,770.40"
+  },
+  {
+    "country": "Romania",
+    "year": "2023",
+    "value": "351,002.58"
+  },
+  {
+    "country": "Russian Federation",
+    "year": "2023",
+    "value": "2,021,421.48"
+  },
+  {
+    "country": "Rwanda",
+    "year": "2023",
+    "value": "14,097.77"
+  },
+  {
+    "country": "Samoa",
+    "year": "2023",
+    "value": "934.10"
+  },
+  {
+    "country": "San Marino",
+    "year": "2021",
+    "value": "1,855.38"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "year": "2023",
+    "value": "603.24"
+  },
+  {
+    "country": "Saudi Arabia",
+    "year": "2023",
+    "value": "1,067,582.93"
+  },
+  {
+    "country": "Senegal",
+    "year": "2023",
+    "value": "31,013.99"
+  },
+  {
+    "country": "Serbia",
+    "year": "2023",
+    "value": "75,187.13"
+  },
+  {
+    "country": "Seychelles",
+    "year": "2023",
+    "value": "2,141.45"
+  },
+  {
+    "country": "Sierra Leone",
+    "year": "2023",
+    "value": "3,809.83"
+  },
+  {
+    "country": "Singapore",
+    "year": "2023",
+    "value": "501,427.50"
+  },
+  {
+    "country": "Sint Maarten (Dutch part)",
+    "year": "2023",
+    "value": "1,623.17"
+  },
+  {
+    "country": "Slovak Republic",
+    "year": "2023",
+    "value": "132,793.62"
+  },
+  {
+    "country": "Slovenia",
+    "year": "2023",
+    "value": "68,216.78"
+  },
+  {
+    "country": "Solomon Islands",
+    "year": "2023",
+    "value": "1,631.29"
+  },
+  {
+    "country": "Somalia",
+    "year": "2023",
+    "value": "11,679.80"
+  },
+  {
+    "country": "South Africa",
+    "year": "2023",
+    "value": "377,781.60"
+  },
+  {
+    "country": "South Sudan",
+    "year": "2015",
+    "value": "11,997.80"
+  },
+  {
+    "country": "Spain",
+    "year": "2023",
+    "value": "1,580,694.71"
+  },
+  {
+    "country": "Sri Lanka",
+    "year": "2023",
+    "value": "84,356.86"
+  },
+  {
+    "country": "St. Kitts and Nevis",
+    "year": "2023",
+    "value": "1,077.03"
+  },
+  {
+    "country": "St. Lucia",
+    "year": "2023",
+    "value": "2,519.93"
+  },
+  {
+    "country": "St. Martin (French part)",
+    "year": "2021",
+    "value": "649.21"
+  },
+  {
+    "country": "St. Vincent and the Grenadines",
+    "year": "2023",
+    "value": "1,065.96"
+  },
+  {
+    "country": "Sudan",
+    "year": "2023",
+    "value": "109,327.02"
+  },
+  {
+    "country": "Suriname",
+    "year": "2023",
+    "value": "3,782.44"
+  },
+  {
+    "country": "Sweden",
+    "year": "2023",
+    "value": "593,267.70"
+  },
+  {
+    "country": "Switzerland",
+    "year": "2023",
+    "value": "884,940.40"
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "year": "2021",
+    "value": "8,980.06"
+  },
+  {
+    "country": "Tajikistan",
+    "year": "2023",
+    "value": "12,060.60"
+  },
+  {
+    "country": "Tanzania",
+    "year": "2023",
+    "value": "79,158.29"
+  },
+  {
+    "country": "Thailand",
+    "year": "2023",
+    "value": "514,944.99"
+  },
+  {
+    "country": "Timor-Leste",
+    "year": "2023",
+    "value": "2,243.14"
+  },
+  {
+    "country": "Togo",
+    "year": "2023",
+    "value": "9,171.26"
+  },
+  {
+    "country": "Tonga",
+    "year": "2022",
+    "value": "500.27"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "year": "2023",
+    "value": "28,139.94"
+  },
+  {
+    "country": "Tunisia",
+    "year": "2023",
+    "value": "48,529.60"
+  },
+  {
+    "country": "Turkiye",
+    "year": "2023",
+    "value": "1,108,022.37"
+  },
+  {
+    "country": "Turkmenistan",
+    "year": "2023",
+    "value": "59,887.33"
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "year": "2023",
+    "value": "1,402.05"
+  },
+  {
+    "country": "Tuvalu",
+    "year": "2023",
+    "value": "62.28"
+  },
+  {
+    "country": "Uganda",
+    "year": "2023",
+    "value": "49,272.88"
+  },
+  {
+    "country": "Ukraine",
+    "year": "2023",
+    "value": "178,757.02"
+  },
+  {
+    "country": "United Arab Emirates",
+    "year": "2023",
+    "value": "504,173.45"
+  },
+  {
+    "country": "United Kingdom",
+    "year": "2023",
+    "value": "3,340,032.38"
+  },
+  {
+    "country": "United States",
+    "year": "2023",
+    "value": "27,360,935.00"
+  },
+  {
+    "country": "Uruguay",
+    "year": "2023",
+    "value": "77,240.83"
+  },
+  {
+    "country": "Uzbekistan",
+    "year": "2023",
+    "value": "90,889.15"
+  },
+  {
+    "country": "Vanuatu",
+    "year": "2023",
+    "value": "1,126.31"
+  },
+  {
+    "country": "Venezuela, RB",
+    "year": "2014",
+    "value": "482,359.32"
+  },
+  {
+    "country": "Viet Nam",
+    "year": "2023",
+    "value": "429,716.97"
+  },
+  {
+    "country": "Virgin Islands (U.S.)",
+    "year": "2021",
+    "value": "4,444.00"
+  },
+  {
+    "country": "West Bank and Gaza",
+    "year": "2023",
+    "value": "17,396.30"
+  },
+  {
+    "country": "Yemen, Rep.",
+    "year": "2018",
+    "value": "21,606.16"
+  },
+  {
+    "country": "Zambia",
+    "year": "2023",
+    "value": "28,162.63"
+  },
+  {
+    "country": "Zimbabwe",
+    "year": "2023",
+    "value": "26,538.27"
+  },
+  {
+    "country": "World",
+    "year": "2023",
+    "value": "105,435,039.51"
+  },
+  {
+    "country": "Arab World",
+    "year": "2023",
+    "value": "3,491,516.94"
+  },
+  {
+    "country": "Caribbean small states",
+    "year": "2023",
+    "value": "53,252.64"
+  },
+  {
+    "country": "Central Europe and the Baltics",
+    "year": "2023",
+    "value": "2,252,970.88"
+  },
+  {
+    "country": "East Asia & Pacific",
+    "year": "2023",
+    "value": "30,775,659.20"
+  },
+  {
+    "country": "East Asia & Pacific (excluding high income)",
+    "year": "2023",
+    "value": "21,150,247.85"
+  },
+  {
+    "country": "Euro area",
+    "year": "2023",
+    "value": "15,544,858.68"
+  },
+  {
+    "country": "Europe & Central Asia",
+    "year": "2023",
+    "value": "27,240,628.84"
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "year": "2023",
+    "value": "2,098,349.71"
+  },
+  {
+    "country": "European Union",
+    "year": "2023",
+    "value": "18,349,388.45"
+  },
+  {
+    "country": "Fragile and conflict affected situations",
+    "year": "2023",
+    "value": "1,906,801.17"
+  },
+  {
+    "country": "Heavily indebted poor countries (HIPC)",
+    "year": "2023",
+    "value": "1,130,472.16"
+  },
+  {
+    "country": "Latin America & Caribbean",
+    "year": "2023",
+    "value": "7,094,329.64"
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "year": "2023",
+    "value": "6,050,580.95"
+  },
+  {
+    "country": "Least developed countries: UN classification",
+    "year": "2023",
+    "value": "1,504,251.16"
+  },
+  {
+    "country": "Middle East & North Africa",
+    "year": "2023",
+    "value": "4,287,684.13"
+  },
+  {
+    "country": "Middle East & North Africa (excluding high income)",
+    "year": "2023",
+    "value": "1,646,554.47"
+  },
+  {
+    "country": "North America",
+    "year": "2023",
+    "value": "29,509,296.09"
+  },
+  {
+    "country": "OECD members",
+    "year": "2023",
+    "value": "64,098,865.77"
+  },
+  {
+    "country": "Other small states",
+    "year": "2023",
+    "value": "234,402.05"
+  },
+  {
+    "country": "Pacific island small states",
+    "year": "2023",
+    "value": "11,232.23"
+  },
+  {
+    "country": "Small states",
+    "year": "2023",
+    "value": "298,978.25"
+  },
+  {
+    "country": "South Asia",
+    "year": "2023",
+    "value": "4,475,567.64"
+  },
+  {
+    "country": "Sub-Saharan Africa",
+    "year": "2023",
+    "value": "2,032,749.20"
+  },
+  {
+    "country": "Sub-Saharan Africa (excluding high income)",
+    "year": "2023",
+    "value": "2,030,607.75"
+  },
+  {
+    "country": "High income",
+    "year": "2023",
+    "value": "67,653,743.40"
+  },
+  {
+    "country": "Low & middle income",
+    "year": "2023",
+    "value": "37,425,214.51"
+  },
+  {
+    "country": "Low income",
+    "year": "2023",
+    "value": "646,797.73"
+  },
+  {
+    "country": "Lower middle income",
+    "year": "2023",
+    "value": "7,384,750.13"
+  },
+  {
+    "country": "Middle income",
+    "year": "2023",
+    "value": "36,786,942.11"
+  },
+  {
+    "country": "Upper middle income",
+    "year": "2023",
+    "value": "29,403,677.43"
+  }
+]
